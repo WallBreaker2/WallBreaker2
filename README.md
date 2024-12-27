@@ -17,11 +17,11 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!---
 ## 📈 GitHub Stats
 
 ![WallBreaker2's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallBreaker2&show_icons=true&theme=radical)
-
+--->
 ## 🌟 Top Repositories
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=WallBreaker2&repo=op&theme=radical)](https://github.com/WallBreaker2/op)
