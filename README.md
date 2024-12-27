@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and conti
 ## 📈 GitHub Stats
 
 ![WallBreaker2's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallBreaker2&show_icons=true&theme=radical)
---->
+
 ## 🌟 Top Repositories
 
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=WallBreaker2&repo=op&theme=radical)](https://github.com/WallBreaker2/op)
-
+--->
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
